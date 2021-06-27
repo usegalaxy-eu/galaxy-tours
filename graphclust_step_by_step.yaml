@@ -69,7 +69,7 @@ steps:
               Hit the <b>close</b> button when you see that the files are uploaded into your history."
       position: "top"
 
-      title: "<b>Data Acquisition</b>"
+    - title: "<b>Data Acquisition</b>"
       element: "#current-history-panel > div.controls"
       intro: "You've acquired your data. Now let's start using GraphCLust tools.<br><br>"
       position: "left"
