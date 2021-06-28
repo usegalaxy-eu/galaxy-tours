@@ -6,6 +6,9 @@ description: >-
   the available RNA-Seq data, and overview the condition-specific gene
   expression levels of the provided samples.
 title_default: rna-seq-viz-with-cummerbund
+tags:
+  - "RNA"
+
 steps:
   - title: Introduction
     content: >-

@@ -1,6 +1,8 @@
 name: Galaxy RNA-workbench RNA-Seq Introduction Exercise
 description: The Galaxy RNA-workbench RNA-Seq tour
 title_default: "Galaxy RNA-workbench RNA-Seq Exercise"
+tags:
+  - "RNA"
 
 steps:
 

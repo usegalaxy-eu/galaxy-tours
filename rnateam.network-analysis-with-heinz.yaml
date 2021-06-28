@@ -11,6 +11,9 @@ description: >-
   study with simplified data and parameters to speed up the analysis for the
   purposes of this tutorial.
 title_default: network-analysis-with-heinz
+tags:
+  - "RNA"
+
 steps:
   - title: Overview
     content: >-

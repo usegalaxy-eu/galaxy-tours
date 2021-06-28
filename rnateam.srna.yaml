@@ -5,6 +5,9 @@ description: >-
   In this tutorial, we will examine expression of the piRNA subclass of sRNAs
   and their targets in <i>Drosophila melanogaster</i>.
 title_default: srna
+tags:
+  - "sRNA"
+
 steps:
   - title: Introduction
     content: >-

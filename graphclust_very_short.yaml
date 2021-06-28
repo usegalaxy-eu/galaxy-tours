@@ -1,6 +1,9 @@
 name: GraphClust workflow fast tutorial
 description: Simple and short instructions for using GraphClust workflow for clustering RNA sequences
 title_default: "<b>GraphClust_short_tour</b>"
+tags:
+  - "GraphClust"
+
 steps:
     - title: "<b>A tutorial on GraphClust(Clustering RNA sequences)</b>"
       content: "This tour will walk you through the process of <b>GraphClust</b> to cluster RNA sequences.<br><br>

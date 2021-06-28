@@ -1,6 +1,8 @@
 name: Galaxy RNA-workbench ViennaRNA Exercise
 description: The Galaxy RNA-workbench introduces itself
 title_default: "Galaxy RNA-workbench ViennaRNA Introduction Exercise"
+tags:
+  - "RNA"
 
 steps:
 

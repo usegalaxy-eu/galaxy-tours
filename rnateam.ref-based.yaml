@@ -6,6 +6,9 @@ description: >-
   melanogaster, to significantly improve the ability to reconstruct transcripts
   and then identify differences of expression between several conditions.
 title_default: peptide-protein-id
+tags:
+  - "RNA"
+
 steps:
   - title: Introduction
     content: >-
